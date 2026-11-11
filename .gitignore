@@ -1,0 +1,3 @@
+.wix/
+.env.local
+wix.config.json
